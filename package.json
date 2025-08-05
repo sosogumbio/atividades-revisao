@@ -1,0 +1,21 @@
+{
+  "name": "2-semestre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "i": "^0.3.7",
+    "typescript": "^5.9.2",
+    "typescriptnpm": "^1.0.1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "typescript-require": "^0.3.0"
+  },
+  "description": ""
+}
